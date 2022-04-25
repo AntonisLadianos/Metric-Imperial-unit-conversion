@@ -1,0 +1,156 @@
+html, body {
+margin: 0;
+padding: 0;
+border: 0;
+box-sizing: content-box;
+}
+
+div.top{
+position: absolute;
+width: 550px;
+height: 260px;
+left: 0px;
+top: 0px;
+background: linear-gradient(246.26deg, 
+#585DFE 0%,
+#FB3796 100%);
+}
+
+div.bot{
+position: absolute;
+width: 550px;
+height: 290px;
+left: 0px;
+top: 260px;
+background: #1F2937;
+}
+
+h1 {
+position: absolute;
+width: 448.4px;
+height: 38px;
+left: 51px;
+top: 53px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 22px;
+line-height: 38px;
+text-align: center;
+letter-spacing: -0.05em;
+color: white;
+}
+
+
+#input-el{
+position: absolute;
+width: 211px;
+height: 75px;
+left: 169px;
+top: 135px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 97.5723px;
+text-align: center;
+background: transparent;
+border: none;
+outline: none;
+color: white;
+}
+
+h3.fth{
+position: absolute;
+width: 346px;
+height: 25px;
+left: 102px;
+top: 37px;  
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 20px;
+text-align: center;
+color: white;
+}
+
+h3.sth{
+position: absolute;
+width: 346px;
+height: 25px;
+left: 102px;
+top: 119px;  
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 20px;
+text-align: center;
+color: white;
+}
+
+h3.tth{
+position: absolute;
+width: 346px;
+height: 25px;
+left: 102px;
+top: 201px;  
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 20px;
+text-align: center;
+color: white;
+}
+
+#length-el{
+position: absolute;
+width: 346px;
+height: 25px;
+left: 102px;
+top: 77px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+text-align: center;
+color: #D2D2D2;
+}
+
+#volume-el{
+position: absolute;
+width: 346px;
+height: 25px;
+left: 102px;
+top: 159px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+text-align: center;
+color: #D2D2D2;
+}
+
+#mass-el{
+position: absolute;
+width: 346px;
+height: 25px;
+left: 102px;
+top: 241px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+text-align: center;
+color: #D2D2D2;
+
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
